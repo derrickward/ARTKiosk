@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ART Kiosk</string>
+    <string name="loading_kiosks">Loading Kiosks...</string>
+</resources>
